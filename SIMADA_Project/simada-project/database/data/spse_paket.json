@@ -1,0 +1,122 @@
+[
+    {
+        "id_paket": "SPSE-26-001",
+        "nama_paket": "Peningkatan Jalan Ruas Gombong - Kuwarasan",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Dinas Pekerjaan Umum dan Penataan Ruang",
+        "pagu": "4500000000.00",
+        "waktu_pelaksanaan": "120 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-002",
+        "nama_paket": "Pengadaan Obat-Obatan dan Bahan Medis Habis Pakai (BMHP)",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Dinas Kesehatan",
+        "pagu": "1250000000.00",
+        "waktu_pelaksanaan": "60 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-003",
+        "nama_paket": "Rehabilitasi Ruang Kelas SD Negeri 1 Kebumen",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Dinas Pendidikan, Kepemudaan dan Olahraga",
+        "pagu": "850000000.00",
+        "waktu_pelaksanaan": "90 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-004",
+        "nama_paket": "Belanja Modal Server dan Jaringan Command Center",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Dinas Komunikasi dan Informatika",
+        "pagu": "650000000.00",
+        "waktu_pelaksanaan": "45 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-005",
+        "nama_paket": "Pengadaan Bibit Pertanian dan Pupuk Subsidi",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Dinas Pertanian dan Pangan",
+        "pagu": "2100000000.00",
+        "waktu_pelaksanaan": "60 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-006",
+        "nama_paket": "Pembangunan Saluran Drainase Perkotaan",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Dinas Perumahan dan Kawasan Permukiman",
+        "pagu": "1750000000.00",
+        "waktu_pelaksanaan": "90 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-007",
+        "nama_paket": "Pengadaan Kendaraan Operasional Pemadam Kebakaran",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Satuan Polisi Pamong Praja",
+        "pagu": "2800000000.00",
+        "waktu_pelaksanaan": "150 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-008",
+        "nama_paket": "Belanja Logistik Bencana Alam (Pangan dan Sandang)",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Badan Penanggulangan Bencana Daerah (BPBD)",
+        "pagu": "450000000.00",
+        "waktu_pelaksanaan": "30 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-009",
+        "nama_paket": "Penyusunan Rencana Detail Tata Ruang (RDTR) Kawasan",
+        "metode_pengadaan": "Seleksi",
+        "opd_pemilik": "Dinas Pekerjaan Umum dan Penataan Ruang",
+        "pagu": "950000000.00",
+        "waktu_pelaksanaan": "120 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-010",
+        "nama_paket": "Pengadaan Perangkat TIK Sekolah Menengah Pertama",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Dinas Pendidikan, Kepemudaan dan Olahraga",
+        "pagu": "1150000000.00",
+        "waktu_pelaksanaan": "60 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-011",
+        "nama_paket": "Pembangunan Gedung Rawat Inap RSUD Kebumen",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "RSUD Dr. Soedirman",
+        "pagu": "15000000000.00",
+        "waktu_pelaksanaan": "210 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-012",
+        "nama_paket": "Pengadaan Kendaraan Dinas Roda Dua",
+        "metode_pengadaan": "E-Purchasing",
+        "opd_pemilik": "Sekretariat Daerah",
+        "pagu": "350000000.00",
+        "waktu_pelaksanaan": "30 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-013",
+        "nama_paket": "Rehabilitasi Jaringan Irigasi D.I. Wadaslintang",
+        "metode_pengadaan": "Tender",
+        "opd_pemilik": "Dinas Pekerjaan Umum dan Penataan Ruang",
+        "pagu": "3200000000.00",
+        "waktu_pelaksanaan": "150 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-014",
+        "nama_paket": "Pengadaan Alat Peraga Edukatif (APE) PAUD",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Dinas Pendidikan, Kepemudaan dan Olahraga",
+        "pagu": "500000000.00",
+        "waktu_pelaksanaan": "45 Hari Kalender"
+    },
+    {
+        "id_paket": "SPSE-26-015",
+        "nama_paket": "Belanja Pemeliharaan Penerangan Jalan Umum",
+        "metode_pengadaan": "Tender Cepat",
+        "opd_pemilik": "Dinas Perhubungan",
+        "pagu": "750000000.00",
+        "waktu_pelaksanaan": "60 Hari Kalender"
+    }
+]
